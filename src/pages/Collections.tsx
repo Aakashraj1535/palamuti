@@ -18,7 +18,7 @@ const products = [
   { image: paparzai, name: "Paparazzi", description: "Bold, stunning silver statement.", price: "$199", category: "Necklaces" },
   { image: leaffringe, name: "Leaf Fringe", description: "Elegant leaf fringe necklace", price: "$199", category: "Necklaces" },
   { image: multitone, name: "Multitone Butterfly", description: "Colorful butterfly design necklace", price: "$199", category: "Necklaces" },
-  { image: doubledrop, name: "Double Drop Tennis", description: "Refined sparkling silver tennis.", price: "₱50,000", category: "Necklaces" }
+  { image: doubledrop, name: "Double Drop Tennis", description: "Refined sparkling silver tennis.", price: "$199", category: "Necklaces" }
 ];
 
 

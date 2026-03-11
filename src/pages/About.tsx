@@ -3,7 +3,7 @@ import aboutImage from "@/assets/about-craftsmanship.jpg";
 import { Diamond, Heart, Globe, Sparkles } from "lucide-react";
 
 const commitments = [
-  { icon: Diamond, title: "Premium Materials", description: "We source only the finest gold, platinum, and ethically mined gemstones from around the world." },
+  { icon: Diamond, title: "Premium Materials", description: "We source only the finest silver, platinum, and ethically mined gemstones from around the world." },
   { icon: Heart, title: "Handcrafted with Love", description: "Every piece is meticulously crafted by hand, ensuring uniqueness and unparalleled quality." },
   { icon: Globe, title: "Sustainable Practices", description: "We are committed to ethical sourcing and environmentally responsible manufacturing." },
   { icon: Sparkles, title: "Lifetime Guarantee", description: "Each creation comes with our promise of lifetime quality assurance and care." },

@@ -6,7 +6,7 @@ const milestones = [
   { icon: Award, year: "2004", title: "Apprenticeship", description: "Began learning traditional goldsmith techniques" },
   { icon: Gem, year: "2010", title: "Gemology Studies", description: "Certified gemologist from Antwerp, Belgium" },
   { icon: Globe, year: "2014", title: "Milan Design", description: "Studied contemporary jewelry design in Italy" },
-  { icon: Diamond, year: "2016", title: "Founded Palamuti", description: "Launched the brand with a singular vision" },
+  { icon: Diamond, year: "2026", title: "Founded Palamuti", description: "Launched the brand with a singular vision" },
 ];
 
 const Owner = () => {
@@ -37,15 +37,17 @@ const Owner = () => {
             <p className="text-primary text-xs tracking-[0.4em] uppercase font-body mb-3">Founder & Creative Director</p>
             <h2 className="font-display text-3xl md:text-4xl font-semibold mb-2">Mary Rose Sinining</h2>
             <div className="gold-line mb-4" />
-            <p className="text-primary/70 font-body text-sm mb-6 italic tracking-wide">Master Jeweler · 20+ Years of Experience</p>
+        
             <p className="text-muted-foreground font-body leading-relaxed mb-4">
-              With over two decades of experience in the fine jewelry industry, Mary Rose Sinining has established herself as one of the most respected names in luxury jewelry design. Her journey began as an apprentice in a traditional goldsmith workshop, where she mastered the intricate art of handcrafting precious metals and setting gemstones.
+             Mary Rose Sinining is the passionate founder of Palamuti, a jewelry brand created with a vision to celebrate elegance, individuality, and timeless beauty. With a deep interest in craftsmanship and design, she started Palamuti to bring unique and meaningful jewelry pieces to people who appreciate style and quality.
             </p>
             <p className="text-muted-foreground font-body leading-relaxed mb-4">
-              After studying gemology in Antwerp and jewelry design in Milan, Mary Rose Sinining founded Palamuti with a singular vision: to create jewelry that captures the essence of timeless elegance while pushing the boundaries of contemporary design.
+             Her journey began with a love for artistic expression and a desire to create accessories that tell a story. Through Palamuti, Mary Rose focuses on blending creativity with fine detailing, ensuring that every piece reflects sophistication and charm.
             </p>
             <p className="text-muted-foreground font-body leading-relaxed">
-              Her philosophy is simple yet profound—every piece of jewelry should tell a story, evoke emotion, and become a treasured companion for generations.
+              She believes jewelry is more than just an accessory — it is a symbol of identity, confidence, and personal expression. With dedication and passion, Mary Rose Sinining continues to grow Palamuti into a brand that represents beauty, authenticity, and craftsmanship.
+           <p className="text-muted-foreground font-body leading-relaxed mb-4">
+            </p>Through Palamuti, she aims to bring timeless styles that blend modern trends with classic charm. Her dedication continues to shape the brand into a symbol of quality, style, and meaningful craftsmanship.
             </p>
           </SectionReveal>
         </div>
